@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530006152908",
+    "project_id": "dpa-esan",
+    "storage_bucket": "dpa-esan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530006152908:android:4a461adb2c68940db0d469",
+        "android_client_info": {
+          "package_name": "pe.daniel.arce.dsmpc02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530006152908-pfalsau292plt05b30tji2va771qvob4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtERJYUZNRTdBycvELtuQjhlTU7BYRAnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530006152908-pfalsau292plt05b30tji2va771qvob4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
